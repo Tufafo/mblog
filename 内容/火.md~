@@ -1,0 +1,80 @@
+---
+layout: default
+title: 读书笔记：火焰中的秘密：从炼金术到现代化学
+data: 2023-12-23
+---
+
+# <center>火</center>
+
+<center>
+<pre class="mermaid">
+mindmap
+	root((火的历史))
+		森林
+		炼金术士
+		实验室
+</pre>
+</center>
+
+
+<center>
+<pre class="mermaid">
+mindmap
+	root(象粪纸)
+		山羊
+			有反刍胃
+		大象
+			无法消化纤维素
+		马蜂
+			赶苍蝇－制作纸
+</pre>	
+</center>
+	
+<center>
+<pre class="mermaid">
+mindmap
+	root((红色))
+		赭石
+			壁画
+			制陶
+			化妆
+			入药
+			加热-->更红-->黑
+			孔雀石
+</pre>
+</center>
+
+<center>
+<pre class="mermaid">
+mindmap
+毒
+	箭毒
+		毛草屋－化学实验室
+		黑火药－肥皂
+		蛙毒
+		吃－酒－传教士
+	氢氟酸
+		木薯
+		耶稣－绞肉机
+		木薯粉・毒汁液
+</pre>
+</center>
+
+
+<center>
+<pre class="mermaid">
+mindmap
+	斯塔登-15
+		耶稣－你们可以吃了他
+		风暴－月亮－疾病
+		唾液啤酒－淀粉酶
+		吃人－Mumia-10-19
+</pre>
+</center>
+
+
+
+<Script Type="module">
+	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+	mermaid.initialize({ startOnLoad: true });
+</script>

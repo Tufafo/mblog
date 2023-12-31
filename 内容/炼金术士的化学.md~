@@ -1,0 +1,55 @@
+---
+layout: default
+title: 炼金术士的化学
+date: 2023-12-26
+---
+
+# <center>炼金术士的化学</center>
+
+
+<center>
+<pre class="mermaid">
+mindmap
+朱砂和砷
+	道・变化
+	葛洪・80
+		长生・财富
+		毒蝇蕈・白日飞升
+	水银<->朱砂・长生
+		砷食・奥地利・20s・强壮
+		水银・尸体d
+	发明
+		火药
+		瓷器
+		纸张・马蜂・木
+		酱油・盐・发霉黄豆
+	理论
+		阴阳・赫马弗洛狄特斯
+		文火
+	入药
+		中・儿童
+		德・洒尔佛散・抗菌
+</pre>
+</center>
+
+
+<center>
+<pre class="mermaid">
+mindmap
+秘方
+	帕拉策尔苏斯
+	1493-1541
+</pre>
+</center>
+
+<script type="module">
+	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+	mermaid.initialize({ startOnLoad: true });
+</script>
+
+
+
+
+
+
+
