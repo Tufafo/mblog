@@ -1,0 +1,62 @@
+---
+layout: default
+title: 小王子内容提要
+date: 2023-01-05
+---
+
+## <center>小王子内容提要</center>
+
+<center>
+<pre class="mermaid">
+mindmap
+圣埃克苏佩里（1900-1944)
+	导读
+		法－流亡美国
+		飞行员
+		妻子
+	作品
+		《战机飞行员》
+		《给一个人质的信》
+		《小王子》
+</pre>
+</center>
+
+<center>
+<pre class="mermaid">
+mindmap
+我
+	绘画－童年
+	飞机・失事
+</pre>
+</center>
+
+
+<center>
+<pre class="mermaid">
+mindmap
+小王子
+	玫瑰・绵羊
+	国王
+	爱慕虚荣
+	酒鬼
+	商人・拥有星星
+	点灯人・士兵
+	地理学家
+	地球
+		蛇
+		玫瑰花园
+		狐狸
+		火车
+		药丸
+</pre>
+</center>
+
+
+<script type="module">
+	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+	mermaid.initialize({ startOnLoad: true });
+</script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/katex.min.css" integrity="sha384-ZPe7yZ91iWxYumsBEOn7ieg8q/o+qh/hQpSaPow8T6BwALcXSCS6C6fSRPIAnTQs" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/katex.min.js" integrity="sha384-ljao5I1l+8KYFXG7LNEA7DyaFvuvSCmedUf6Y6JI7LJqiu8q5dEivP2nDdFH31V4" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>

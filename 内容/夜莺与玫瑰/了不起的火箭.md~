@@ -1,0 +1,30 @@
+---
+layout: default
+title: 了不起的火箭
+date: 2023-01-05
+---
+
+## <center>了不起的火箭</center>
+
+<center>
+<pre class="mermaid">
+火箭・贵族
+	宫殿
+		炫火轮×火箭【法】・梨花艺术
+		缺我・不幸・劳什子
+		彩珠筒・火花棒
+	池塘
+		鸭子・牛马狗
+		青蛙・阔・破
+		起飞・棍子・熄灭
+</pre>
+</center>
+
+<script type="module">
+	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+	mermaid.initialize({ startOnLoad: true });
+</script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/katex.min.css" integrity="sha384-ZPe7yZ91iWxYumsBEOn7ieg8q/o+qh/hQpSaPow8T6BwALcXSCS6C6fSRPIAnTQs" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/katex.min.js" integrity="sha384-ljao5I1l+8KYFXG7LNEA7DyaFvuvSCmedUf6Y6JI7LJqiu8q5dEivP2nDdFH31V4" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
